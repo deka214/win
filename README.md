@@ -1,2 +1,2 @@
 # win
-winarko lie
+for winarko lie
